@@ -1,7 +1,7 @@
-# Welcome! I'm Manoj Kumar 👋
+# Welcome! I'm ManojKumar 👋
 
 
-![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=30&pause=100&color=FFFFFF&width=600&center=true&vCenter=true&lines=👨‍💻+Full-Stack+Developer...;☁️+Cloud+Enthusiast...;🎯+Problem+Solver...;💻+Building+Projects...)
+![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=30&pause=100&color=FFFFFF&width=600&center=true&vCenter=true&lines=👨‍💻+Full-Stack+Developer...;☁️+Cloud+Enthusiast...;💻+Building+Cool+Projects...;🎯+Problem+Solver...;)
 
 
 
@@ -28,13 +28,10 @@
 
 
 
-
-
-
 ---
 
 <p align="center">
-  Made with ❤️ by Manoj Kumar
+  Made with ❤️ by ManojKumar
 </p>
 <p align="center">
   🔗 Connect: <a href="https://www.linkedin.com/in/manojkumar023/">LinkedIn</a>
