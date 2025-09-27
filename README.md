@@ -1,7 +1,7 @@
-# Welcome! I'm ManojKumar 👋
-
-
-![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=30&pause=100&color=FFFFFF&width=600&center=true&vCenter=true&lines=👨‍💻+Full-Stack+Developer...;☁️+Cloud+Enthusiast...;💻+Building+Cool+Projects...;🎯+Problem+Solver...;)
+<!-- Typing Animation -->
+<p align="center">
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=32&duration=3000&pause=250&color=ffffff&background=00000000&center=true&vCenter=true&width=850&lines=✨+Welcome+to+My+GitHub!+✨;🚀+Building+awesome+Full-Stack+Projects;☁️+Exploring+Cloud+and+Deployments;🎯+Solving+problems+one+commit+at+a+time!" alt="Typing SVG" />
+</p>
 
 
 
